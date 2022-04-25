@@ -15,3 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|Zhu Haoyu|[Project-Github](https://github.com/underthestars-zhy/Date-Planner.swiftpm) [Friendly-GitHub](https://github.com/underthestars-zhy/Friendly)|[YouTube](https://youtu.be/JIhzsjET-Bk) [Bilibili](https://www.bilibili.com/video/BV18Y4y187Gj/) |SwiftUI, ARKit, Speech, UIKit, CoreMotion|Submitted|
