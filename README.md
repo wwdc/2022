@@ -15,4 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
-|Sample Entry|[GitHub](https://github.com/jiachenyee/WWDC22-SSC)||SwiftUI, UIKit, SceneKit, ARKit|Submitted|
+|[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/WWDC22-SSC)||SwiftUI, UIKit, SceneKit, ARKit|Submitted|
