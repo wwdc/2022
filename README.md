@@ -15,3 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|Vincent Spitale|[Photo Draw](https://github.com/vincentspitale/SSC2022)|[YouTube](https://youtu.be/vQM8yTbGguQ)|SwiftUI, PencilKit, Combine, VisionKit, MetalKit|Submitted|
