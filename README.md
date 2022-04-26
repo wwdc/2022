@@ -15,3 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|eoqe|[GitHub](https://github.com/3u1s/eoqe)|[Images](https://github.com/3u1s/eoqe#images)|SwiftUI, manim, CGPaths, AVPlayer|Submitted|
