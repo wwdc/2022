@@ -15,3 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|Henri Bredt|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Submitted|
