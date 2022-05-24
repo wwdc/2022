@@ -15,3 +15,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|Madhav Gulati|[GitHub]([https://github.com/MadhavGulati/GeneCloning])|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|Accepted|
