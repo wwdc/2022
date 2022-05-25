@@ -20,6 +20,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Haotian Zheng](https://haotianzheng.com/)|[GitHub](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)|[YouTube](https://youtu.be/B6D3y49WOEQ)|SwiftUI, Combine, SpriteKit|Accepted|
 |[Henri Bredt](https://henribredt.de)|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Accepted|
 |[Hugo Queinnec](https://github.com/hugoqnc)|[GitHub](https://github.com/hugoqnc/Split)||SwiftUI, Vision|Accepted|
+|[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/main/WWDC%202022)|[YouTube](https://youtu.be/t4NQSHLIbaw)|AVFoundation, CoreGraphics, SwiftUI, UIKit|Accepted|
