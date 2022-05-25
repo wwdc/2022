@@ -16,3 +16,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
+|[Daegun Choi](https://github.com/ChoiysApple)|[GitHub]([https://github.com/codeswift27/quantum-entanglement.git](https://github.com/ChoiysApple/Asteroids-Plus))||SwiftUI, SpriteKit |Accepted|
