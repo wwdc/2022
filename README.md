@@ -25,3 +25,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/main/WWDC%202022)|[YouTube](https://youtu.be/t4NQSHLIbaw)|AVFoundation, CoreGraphics, SwiftUI, UIKit|Accepted|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc22)||Accelerate, AVFoundation, SwiftUI|Accepted|
+|[Kasper Munch Jensen](https://github.com/KaffeDiem)|[GitHub](https://github.com/KaffeDiem/DrawBeatMaker)||SwiftUI, AVFoundation, PencilKit|Accepted|
