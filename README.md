@@ -15,4 +15,5 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|[Diego Henrique Silva Oliveira](https://github.com/DiegoHSO)|[GitHub](https://github.com/DiegoHSO/DinnerRun.git)|[YouTube](https://youtu.be/OOMrZj_hsI8)|SwiftUI|Accepted|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
