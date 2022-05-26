@@ -12,6 +12,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 <!-- Technologies column should contain 4 maximum, excluding PlaygroundSupport! -->
 <!-- We'll try to add all videos to our YouTube Playlist, but if you notice yours isn't added after a few days, please ping @julianschiavo in your *original* PR! -->
 
+
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
@@ -29,5 +30,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)||SwiftUI, AVKit|Accepted|
 |[Peter Yaacoub](https://github.com/Yaacoub)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge/tree/main/WWDC%202022)|[YouTube](https://youtu.be/t4NQSHLIbaw)|AVFoundation, CoreGraphics, SwiftUI, UIKit|Accepted|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc22)||Accelerate, AVFoundation, SwiftUI|Accepted|
+|[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
