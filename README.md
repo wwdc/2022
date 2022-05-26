@@ -12,7 +12,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 <!-- Technologies column should contain 4 maximum, excluding PlaygroundSupport! -->
 <!-- We'll try to add all videos to our YouTube Playlist, but if you notice yours isn't added after a few days, please ping @julianschiavo in your *original* PR! -->
 
-| Name | Source |    Videos    | Technologies | Status |
-|------|--------|--------------|--------------|--------|
-|Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
-|Sascha Salles|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
+| Name                                             | Source                                                           | Videos                                  | Technologies                          | Status    |
+| ------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------- | ------------------------------------- | --------- |
+| Sample Entry                                     | [GitHub](https://github.com/wwdc/2022)                           | [YouTube](https://youtu.be/dQw4w9WgXcQ) | SwiftUI, AVFoundation                 | Submitted |
+| [Sascha Salles](https://github.com/saschasalles) | [GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm) |                                         | ARKit, Vision, CreateML, AVFoundation | Accepted  |
