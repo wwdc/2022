@@ -17,6 +17,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
+|[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
@@ -24,6 +25,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Henri Bredt](https://henribredt.de)|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Accepted|
 |[Hugo Queinnec](https://github.com/hugoqnc)|[GitHub](https://github.com/hugoqnc/Split)||SwiftUI, Vision|Accepted|
 |[Ishaan Bedi](https://github.com/ishaanbedi)|[GitHub](https://github.com/ishaanbedi/Chipify-WWDC22)|[YouTube](https://youtu.be/bWf6gNBQSB8)|SwiftUI|Accepted|
+|[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Audioqe-WWDC22)|[YouTube](https://youtu.be/TnayjRjrYp8)|SwiftUI, AVFoundation|Accepted|
 |[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
 |[Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)|[GitHub](https://github.com/ConfuseIous/ASLearn)||UIKit, SwiftUI, CoreML, AVKit |Accepted|
