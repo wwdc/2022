@@ -19,7 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
-|Bryanza Novirahman|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
+|[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
 |[Haotian Zheng](https://haotianzheng.com/)|[GitHub](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)|[YouTube](https://youtu.be/B6D3y49WOEQ)|SwiftUI, Combine, SpriteKit|Accepted|
@@ -39,3 +39,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
+
