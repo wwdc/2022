@@ -36,4 +36,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
-|[Bon Sung Koo](https://github.com/terry-koo)|[GitHub](https://github.com/terry-koo/WWDC_Colors_SwiftUI)|[YouTube]|SwiftUI|Accepted|
+|[Bon Sung Koo](https://github.com/terry-koo)|[GitHub](https://github.com/terry-koo/WWDC_Colors_SwiftUI)||SwiftUI|Accepted|
