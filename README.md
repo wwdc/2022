@@ -36,6 +36,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Kenneth Chew](https://github.com/kthchew/)|[GitHub](https://github.com/kthchew/wwdc22-mystack)||SwiftUI|Accepted|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Lin Bo Rong](https://github.com/rong1002)|[GitHub](https://github.com/rong1002/2022WWDC_Swift-Student-Challenge_Burn-Calories)|[YouTube](https://www.youtube.com/watch?v=UTRDFw31SUA&t)|SwiftUI|Accepted|
+|[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/BlinkBoard-WWDC22)||SwiftUI, Core Animation, Vision|Accepted|
 |[Madhav Gulati](https://github.com/MadhavGulati/)|[GitHub](https://github.com/MadhavGulati/GeneCloning)|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|Accepted|
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)||SwiftUI, AVKit|Accepted|
 |[Omar Abusharar](https://github.com/omartheturtle/)|[GitHub](https://github.com/omartheturtle/SwiftStudentChallenge2022)|Later?|SwiftUI, UIKit, SpriteKit, ARQuickLook|Rejected|
