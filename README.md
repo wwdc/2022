@@ -16,7 +16,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
-|[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
@@ -24,6 +23,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
+|[Furkan Hancı](https://github.com/furkanhancisecond)|[GitHub](https://github.com/FurkanHanciSecond/LearnSwiftUI)|[YouTube]( https://www.youtube.com/watch?v=N4pqwTHG2EA)|SwiftUI|Accepted|
 |[Geetansh Atrey](https://github.com/geetanshatrey)|[GitHub](https://github.com/geetanshatrey/Vault)||SwiftUI, CryptoKit|Accepted|
 |[Haotian Zheng](https://haotianzheng.com/)|[GitHub](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)|[YouTube](https://youtu.be/B6D3y49WOEQ)|SwiftUI, Combine, SpriteKit|Accepted|
 |[Henri Bredt](https://henribredt.de)|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Accepted|
@@ -37,6 +37,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Lin Bo Rong](https://github.com/rong1002)|[GitHub](https://github.com/rong1002/2022WWDC_Swift-Student-Challenge_Burn-Calories)|[YouTube](https://www.youtube.com/watch?v=UTRDFw31SUA&t)|SwiftUI|Accepted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/BlinkBoard-WWDC22)||SwiftUI, Core Animation, Vision|Accepted|
+|[Madhav Gulati](https://github.com/MadhavGulati/)|[GitHub](https://github.com/MadhavGulati/GeneCloning)|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|Accepted|
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)||SwiftUI, AVKit|Accepted|
 |[Omar Abusharar](https://github.com/omartheturtle/)|[GitHub](https://github.com/omartheturtle/SwiftStudentChallenge2022)|Later?|SwiftUI, UIKit, SpriteKit, ARQuickLook|Rejected|
 |[Oscar Fridh](https://www.linkedin.com/in/oscar-fridh-03279b125/)|[GitHub](https://github.com/OscarFridh/WWDC22)|[YouTube](https://www.youtube.com/watch?v=Yvlz3F5ZXkg)|ARKit, RealityKit, SwiftUI, UIKit|Accepted|
@@ -45,5 +46,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Ryan Du](https://github.com/ryendu)|[GitHub](https://github.com/ryendu/GradientDescend)|[YouTube](https://www.youtube.com/watch?v=TINWpa961VE)|SwiftUI, AVFoundation, SceneKit, CoreMotion|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
-|[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
