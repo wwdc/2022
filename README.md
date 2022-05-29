@@ -24,6 +24,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
 |[Furkan Hancı](https://github.com/furkanhancisecond)|[GitHub](https://github.com/FurkanHanciSecond/LearnSwiftUI)|[YouTube]( https://www.youtube.com/watch?v=N4pqwTHG2EA)|SwiftUI|Accepted|
+|[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/Swift-Student-Challenge-2022)||SwiftUI, SceneKit, ARKit, Combine|Rejected|
 |[Geetansh Atrey](https://github.com/geetanshatrey)|[GitHub](https://github.com/geetanshatrey/Vault)||SwiftUI, CryptoKit|Accepted|
 |[Haotian Zheng](https://haotianzheng.com/)|[GitHub](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor)|[YouTube](https://youtu.be/B6D3y49WOEQ)|SwiftUI, Combine, SpriteKit|Accepted|
 |[Henri Bredt](https://henribredt.de)|[GitHub](https://github.com/henribredt/Typography-WWDC22)|[YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)|SwiftUI|Accepted|
