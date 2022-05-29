@@ -46,4 +46,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Ryan Du](https://github.com/ryendu)|[GitHub](https://github.com/ryendu/GradientDescend)|[YouTube](https://www.youtube.com/watch?v=TINWpa961VE)|SwiftUI, AVFoundation, SceneKit, CoreMotion|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
-|[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
+|[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected| 
