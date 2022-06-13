@@ -36,7 +36,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Hyunjun Shin](https://github.com/greenthings)|[GitHub](https://github.com/greenthings/GreenWorld)||SwiftUI, SpriteKit|Accepted|
 |[Ishaan Bedi](https://github.com/ishaanbedi)|[GitHub](https://github.com/ishaanbedi/Chipify-WWDC22)|[YouTube](https://youtu.be/bWf6gNBQSB8)|SwiftUI|Accepted|
 |[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Audioqe-WWDC22)|[YouTube](https://youtu.be/TnayjRjrYp8)|SwiftUI, AVFoundation|Accepted|
-|[Joep Hinderink](https://hinder.ink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeachRecognizer, VisionKit, Vision, Speech, Foundation|Accepted|
+|[Joep Hinderink](https://hinder.ink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)|See www.hinder.ink|SwiftUI, SFSpeachRecognizer, VisionKit, Vision, Speech, Foundation|Accepted|
 |[João Medeiros](https://github.com/jpcm2)|[GitHub](https://github.com/jpcm2/JungleRescue)||SwiftUI, SpriteKit, AVFoundation|Accepted|
 |[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
