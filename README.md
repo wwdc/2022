@@ -31,6 +31,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Davin Djayadi](https://github.com/davindj)|[GitHub](https://github.com/davindj/cofi)||SwiftUI, SceneKit, Combine |Accepted|
 |[Diego Henrique Silva Oliveira](https://github.com/DiegoHSO)|[GitHub](https://github.com/DiegoHSO/DinnerRun.git)|[YouTube](https://youtu.be/OOMrZj_hsI8)|SwiftUI|Accepted|
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/DonChiaQE/ReGen)||SwiftUI|Accepted|
+|[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/OhMyFlag-WWDC22)|[Twitter](https://twitter.com/cyongfrank/status/1518663840463872000)|SwiftUI, Core Data, PencilKit, DocC|Submitted|
 |[Furkan Hancı](https://github.com/furkanhancisecond)|[GitHub](https://github.com/FurkanHanciSecond/LearnSwiftUI)|[YouTube]( https://www.youtube.com/watch?v=N4pqwTHG2EA)|SwiftUI|Accepted|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/Swift-Student-Challenge-2022)||SwiftUI, SceneKit, ARKit, Combine|Rejected|
 |[Geetansh Atrey](https://github.com/geetanshatrey)|[GitHub](https://github.com/geetanshatrey/Vault)||SwiftUI, CryptoKit|Accepted|
