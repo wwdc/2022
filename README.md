@@ -21,6 +21,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
 |[Ayush Singh](https://github.com/Ayush21082)|[GitHub](https://github.com/Ayush21082/Flip-The-Cup)|[YouTube](https://youtu.be/1zy_tqStrtA)|SwiftUI, SceneKit, ARKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
+|Berkin Ceylan|[GitHub](https://github.com/berkinceylan/WWDC22)||SwiftUI, CoreML|Submitted|
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
