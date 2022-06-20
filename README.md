@@ -63,6 +63,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc22)||Accelerate, AVFoundation, SwiftUI|Accepted|
 |[Rido Hendrawan](https://github.com/ridohendrawan)|[GitHub](https://github.com/ridohendrawan/WWDC22-Chinese-Porcelain)||SwiftUI|Accepted|
 |[Ryan Du](https://github.com/ryendu)|[GitHub](https://github.com/ryendu/GradientDescend)|[YouTube](https://www.youtube.com/watch?v=TINWpa961VE)|SwiftUI, AVFoundation, SceneKit, CoreMotion|Accepted|
+|Roy Rao|[GitHub](https://github.com/RoyRao2333/WWDC22-Apple-Scholarship)||SwiftUI, UIKit, Vision|Submitted|
 |[Sam Poder](https://github.com/sampoder)|[GitHub](https://github.com/sampoder/whack-a-mole)||SwiftUI|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Sérgio Ruediger](https://github.com/sruediger)|[GitHub](https://github.com/sruediger/WWDC2022CTF)||SwiftUI, Combine, CoreGraphics, CryptoKit|Accepted|
