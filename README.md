@@ -27,7 +27,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
 |[Cynara Costa](https://www.linkedin.com/in/cynaracosta/)|[GitHub](https://github.com/CynaraCosta/graviNewton-WWDC22)|[YouTube](https://www.youtube.com/watch?v=kbO4dDJVx-A)|SwiftUI, AVKit|Accepted|
-|[Daegun Choi](https://github.com/ChoiysApple)|[GitHub](https://github.com/ChoiysApple/Asteroids-Plus)||SwiftUI, SpriteKit |Accepted|
+|[Daegun Choi](https://github.com/ChoiysApple)|[GitHub](https://github.com/ChoiysApple/Asteroids-Plus)|[YouTube](https://youtu.be/OffJ0KTX0mI)|SwiftUI, SpriteKit |Accepted|
 |[Davin Djayadi](https://github.com/davindj)|[GitHub](https://github.com/davindj/cofi)||SwiftUI, SceneKit, Combine |Accepted|
 |[Diego Henrique Silva Oliveira](https://github.com/DiegoHSO)|[GitHub](https://github.com/DiegoHSO/DinnerRun.git)|[YouTube](https://youtu.be/OOMrZj_hsI8)|SwiftUI|Accepted|
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/DonChiaQE/ReGen)||SwiftUI|Accepted|
