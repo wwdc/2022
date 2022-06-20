@@ -69,5 +69,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
 |[Vedant Malhotra](https://github.com/vedantapps)|[GitHub](https://github.com/vedantapps/SaveWWDC)|[YouTube](https://youtu.be/um2HbaI8xqA)|SwiftUI, UIKit, ARKit, PencilKit|Accepted|
 |[Vincent Spitale](https://github.com/vincentspitale)|[GitHub](https://github.com/vincentspitale/SSC2022)|[YouTube](https://youtu.be/vQM8yTbGguQ)|SwiftUI, PencilKit, VisionKit, MetalKit|Accepted|
+|[Vitor Grechi Kuninari](https://www.wwdcscholars.com/s/32CD09B0-46A3-4D89-A10F-AF9984766715)|[GitHub](https://github.com/VitorGK/WWDC22-Swift-Student-Challenge)||SwiftUI, SpriteKit|Accepted|
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
