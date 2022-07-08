@@ -19,6 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
+|[Audrey Wang](https://github.com/audreyolaf)|[GitHub](https://github.com/audreyolaf/Theia)|[YouTube](https://youtu.be/bLVWnQGnx9s)|SwiftUI, AVFoundation|Accepted|
 |[Ayush Singh](https://github.com/Ayush21082)|[GitHub](https://github.com/Ayush21082/Flip-The-Cup)|[YouTube](https://youtu.be/1zy_tqStrtA)|SwiftUI, SceneKit, ARKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
 |Berkin Ceylan|[GitHub](https://github.com/berkinceylan/WWDC22)||SwiftUI, CoreML|Submitted|
