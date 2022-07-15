@@ -23,6 +23,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Ayush Singh](https://github.com/Ayush21082)|[GitHub](https://github.com/Ayush21082/Flip-The-Cup)|[YouTube](https://youtu.be/1zy_tqStrtA)|SwiftUI, SceneKit, ARKit|Accepted|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
 |Berkin Ceylan|[GitHub](https://github.com/berkinceylan/WWDC22)||SwiftUI, CoreML|Submitted|
+|[Bon Sung Koo](https://github.com/terry-koo)|[GitHub](https://github.com/terry-koo/WWDC_Colors_SwiftUI)||SwiftUI|Accepted|
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
@@ -75,3 +76,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Xikai Liu](https://github.com/iamGeoWat)|[GitHub](https://github.com/iamGeoWat/WWDC22)|[Bilibili](https://www.bilibili.com/video/BV1W34y1p7M3/)|SwiftUI|Accepted|
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
+
