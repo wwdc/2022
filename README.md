@@ -75,4 +75,5 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Vitor Grechi Kuninari](https://www.wwdcscholars.com/s/32CD09B0-46A3-4D89-A10F-AF9984766715)|[GitHub](https://github.com/VitorGK/WWDC22-Swift-Student-Challenge)||SwiftUI, SpriteKit|Accepted|
 |[Xikai Liu](https://github.com/iamGeoWat)|[GitHub](https://github.com/iamGeoWat/WWDC22)|[Bilibili](https://www.bilibili.com/video/BV1W34y1p7M3/)|SwiftUI|Accepted|
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
+|[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)| |SwiftUI|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
