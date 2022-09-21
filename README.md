@@ -48,6 +48,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Joep Hinderink](https://hinder.ink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
 |[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
+|[Juhwa Lee](https://github.com/Juhwa-Lee1023)|[GitHub](https://github.com/Juhwa-Lee1023/Hangeul)||SwiftUI, UIKit, AVFoundation|Accepted|
 |[Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)|[GitHub](https://github.com/ConfuseIous/ASLearn)||UIKit, SwiftUI, CoreML, AVKit |Accepted|
 |[Kasper Munch Jensen](https://github.com/KaffeDiem)|[GitHub](https://github.com/KaffeDiem/DrawBeatMaker)||SwiftUI, AVFoundation, PencilKit|Accepted|
 |[Kenneth Chew](https://github.com/kthchew/)|[GitHub](https://github.com/kthchew/wwdc22-mystack)||SwiftUI|Accepted|
