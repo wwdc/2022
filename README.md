@@ -1,6 +1,6 @@
 # [WWDC 2022 Swift Student Challenge Submissions](https://wwdc.github.io/2022)
 
-List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/).
+List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/). My name is Joep Hinderink and my accepted submission "Binamicle" can be found here on the first row, with plenty of other submissions to explore.
 
 To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
@@ -16,6 +16,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|[Joep Hinderink](https://linkedin.com/in/joephinderink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
@@ -45,7 +46,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Audioqe-WWDC22)|[YouTube](https://youtu.be/TnayjRjrYp8)|SwiftUI, AVFoundation|Accepted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/WWDC22-SSC)||SwiftUI, UIKit, SceneKit, ARKit|Submitted|
 |[João Medeiros](https://github.com/jpcm2)|[GitHub](https://github.com/jpcm2/JungleRescue)||SwiftUI, SpriteKit, AVFoundation|Accepted|
-|[Joep Hinderink](https://linkedin.com/in/joephinderink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
 |[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
 |[Juhwa Lee](https://github.com/Juhwa-Lee1023)|[GitHub](https://github.com/Juhwa-Lee1023/Hangeul)||SwiftUI, UIKit, AVFoundation|Accepted|
