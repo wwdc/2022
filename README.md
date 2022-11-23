@@ -1,6 +1,8 @@
 # [WWDC 2022 Swift Student Challenge Submissions](https://wwdc.github.io/2022)
 
-List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/). My name is Joep Hinderink and my accepted submission "Binamicle" can be found here on the first row, with plenty of other submissions to explore.
+List of student submissions for the [WWDC 2022 Swift Student Challenge](https://developer.apple.com/wwdc22/swift-student-challenge/). 
+
+My name is Joep Hinderink and my accepted submission "Binamicle" can be found here on the first row, with plenty of other submissions to explore.
 
 To add your own project below, just [edit](https://github.com/wwdc/2022/edit/main/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
