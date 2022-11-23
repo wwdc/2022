@@ -15,8 +15,8 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|Sample Entry|[GitHub](https://github.com/wwdc/2022)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Joep Hinderink](https://linkedin.com/in/joephinderink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
+<br>
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)||SwiftUI, AVFoundation|Accepted|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)||SwiftUI, Combine, CoreML, PencilKit|Accepted|
