@@ -15,6 +15,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
+||
 |[Joep Hinderink](https://linkedin.com/in/joephinderink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
 ||
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|Accepted|
