@@ -62,6 +62,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Madhav Gulati](https://github.com/MadhavGulati/)|[GitHub](https://github.com/MadhavGulati/GeneCloning)|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|Accepted|
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)||SwiftUI, AVKit|Accepted|
 |Max Tsai|[GitHub](https://github.com/ming-zhe-02/The-Fake-News)|[YouTube](https://www.youtube.com/watch?v=scV6d8G3EZw)|SwiftUI|Submitted|
+|[Miftahul Huda](https://github.com/iniakunhuda)|[GitHub](https://github.com/iniakunhuda/HelpMomToGrocery-WWDC22)||SwiftUI|Accepted|
 |[Minkyeong Ko](https://github.com/Minkyeong-Ko)|[GitHub](https://github.com/Minkyeong-Ko/Freeboard)|[YouTube](https://youtu.be/XXkhVd-ziIw)|SwiftUI|Accepted|
 |Nathaniel Fargo|[Github](https://github.com/theParadox42/Waves)| |SwiftUI, Canvas, Math/Physics|Submitted|
 |[Omar Abusharar](https://github.com/omartheturtle/)|[GitHub](https://github.com/omartheturtle/SwiftStudentChallenge2022)|Later?|SwiftUI, UIKit, SpriteKit, ARQuickLook|Rejected|
