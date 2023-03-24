@@ -24,6 +24,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)||SwiftUI, Combine|Accepted|
 |Bedir Ekim|[GitHub](https://github.com/BedirEkim/Securencrypt-WWDC22)||SwiftUI, Vision|Accepted|
 |Berkin Ceylan|[GitHub](https://github.com/berkinceylan/WWDC22)||SwiftUI, CoreML|Submitted|
+|[Bon Sung Koo](https://github.com/terry-koo)|[GitHub](https://github.com/terry-koo/WWDC_Colors_SwiftUI)||SwiftUI|Accepted|
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
 |[Byeon Jinha](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/CooC_Archive)||SwiftUI|Accepted|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
@@ -83,3 +84,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)||SwiftUI, SpriteKit, CoreGraphics|Accepted|
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)| |SwiftUI|Accepted|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|Rejected|
+
