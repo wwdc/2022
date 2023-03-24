@@ -75,6 +75,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Sam Poder](https://github.com/sampoder)|[GitHub](https://github.com/sampoder/whack-a-mole)||SwiftUI|Accepted|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)||ARKit, Vision, CreateML, AVFoundation|Accepted|
 |[Sérgio Ruediger](https://github.com/sruediger)|[GitHub](https://github.com/sruediger/WWDC2022CTF)||SwiftUI, Combine, CoreGraphics, CryptoKit|Accepted|
+|[TaekhwanHan](https://github.com/TaekH)|[GitHub](https://github.com/TaekH/WWDC22_MedicineReminder)||SwiftUI|Accepted|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)||SwiftUI, AVFoundation|Accepted|
 |[Vedant Malhotra](https://github.com/vedantapps)|[GitHub](https://github.com/vedantapps/SaveWWDC)|[YouTube](https://youtu.be/um2HbaI8xqA)|SwiftUI, UIKit, ARKit, PencilKit|Accepted|
 |[Vincent Spitale](https://github.com/vincentspitale)|[GitHub](https://github.com/vincentspitale/SSC2022)|[YouTube](https://youtu.be/vQM8yTbGguQ)|SwiftUI, PencilKit, VisionKit, MetalKit|Accepted|
