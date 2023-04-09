@@ -57,6 +57,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Kenneth Chew](https://github.com/kthchew/)|[GitHub](https://github.com/kthchew/wwdc22-mystack)||SwiftUI|Accepted|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)||SwiftUI|Accepted|
 |[Lin Bo Rong](https://github.com/rong1002)|[GitHub](https://github.com/rong1002/2022WWDC_Swift-Student-Challenge_Burn-Calories)|[YouTube](https://www.youtube.com/watch?v=UTRDFw31SUA&t)|SwiftUI|Accepted|
+|[Lucas Wang](https://github.com/Lucas-ZX-W)|[GitHub](https://github.com/Lucas-ZX-W/gaze_control)||SwiftUI, ARKit|Accepted|
 |[Luiz Araujo](https://github.com/LuizAraujo2020)||[YouTube](https://youtu.be/VHeL9B65_gM)|SwiftUI, SceneKit, SpriteKit, GameplayKit|Accepted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/BlinkBoard-WWDC22)||SwiftUI, Core Animation, Vision|Accepted|
 |[Madhav Gulati](https://github.com/MadhavGulati/)|[GitHub](https://github.com/MadhavGulati/GeneCloning)|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|Accepted|
