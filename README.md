@@ -36,6 +36,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/DonChiaQE/ReGen)||SwiftUI|Accepted|
 |[Eunbi Cho](https://github.com/Eunbi-Cho)|[GitHub](https://github.com/Eunbi-Cho/Feel-the)||SwiftUI, SpriteKit|Accepted|
 |[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/OhMyFlag-WWDC22)|[Twitter](https://twitter.com/cyongfrank/status/1518663840463872000)|SwiftUI, Core Data, PencilKit, DocC|Submitted|
+|Fred P|[GitHub](https://github.com/fredpi/WWDC2022)| |SwiftUI, UIKit, Core Graphics|Accepted|
 |[Furkan Hancı](https://github.com/furkanhancisecond)|[GitHub](https://github.com/FurkanHanciSecond/LearnSwiftUI)|[YouTube]( https://www.youtube.com/watch?v=N4pqwTHG2EA)|SwiftUI|Accepted|
 |[Gaeun Lee](https://github.com/rriver2)|[GitHub](https://github.com/rriver2/WWDC--Ep-)|[Youtube](https://www.youtube.com/watch?v=X5ij9X1Gq-A)|SwiftUI, AVFoundation|Accepted|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/Swift-Student-Challenge-2022)||SwiftUI, SceneKit, ARKit, Combine|Rejected|
