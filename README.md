@@ -27,6 +27,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|Rejected|
 |[Byeon Jinha](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/CooC_Archive)||SwiftUI|Accepted|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)||SwiftUI, PencilKit, CoreML, NaturalLanguage|Accepted|
+|[Chema PF](https://github.com/clxsrdev)|[GitHub](https://github.com/clxsrdev/Mixin-UP)|[YouTube](https://youtu.be/qkMU5xHEZ_8)|SwiftUI|Accepted|
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|Accepted|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)||SwiftUI, AVFoundation|Accepted|
 |[Cynara Costa](https://www.linkedin.com/in/cynaracosta/)|[GitHub](https://github.com/CynaraCosta/graviNewton-WWDC22)|[YouTube](https://www.youtube.com/watch?v=kbO4dDJVx-A)|SwiftUI, AVKit|Accepted|
