@@ -48,7 +48,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2022/edit/mai
 |[Jakub Florek](https://github.com/MAJKFL)|[GitHub](https://github.com/MAJKFL/Audioqe-WWDC22)|[YouTube](https://youtu.be/TnayjRjrYp8)|SwiftUI, AVFoundation|Accepted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/WWDC22-SSC)||SwiftUI, UIKit, SceneKit, ARKit|Submitted|
 |[João Medeiros](https://github.com/jpcm2)|[GitHub](https://github.com/jpcm2/JungleRescue)||SwiftUI, SpriteKit, AVFoundation|Accepted|
-|[Joep Hinderink](https://hinder.ink)|[GitHub](https://github.com/joephinderink/Binamicle-WWDC22.git)||SwiftUI, SFSpeechRecognizer, VisionKit, Speech|Accepted|
 |[Jonathan](https://github.com/fuzzynat26)|[GitHub](https://github.com/FuzzyNat26/build-with-math)||SwiftUI, AVFoundation|Accepted|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)||SwiftUI, SpriteKit|Accepted|
 |[Juhwa Lee](https://github.com/Juhwa-Lee1023)|[GitHub](https://github.com/Juhwa-Lee1023/Hangeul)||SwiftUI, UIKit, AVFoundation|Accepted|
