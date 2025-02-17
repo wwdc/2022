@@ -151,7 +151,7 @@ struct Submission {
         }
         
         let videoUrl = if let videoUrl {
-            "[YouTube](\(videoUrl.absoluteString))"
+            "[\(videoUrl.absoluteString.contains("youtu") ? "YouTube" : "Video")](\(videoUrl.absoluteString))"
         } else {
             "-"
         }
@@ -181,6 +181,12 @@ func toValue(_ string: String.SubSequence, key: String) -> String? {
     return value.isEmpty ? nil : value
 }
 
+extension URL {
+    var isValid: Bool {
+        self.scheme != nil && self.host != nil
+    }
+}
+
 var submissions = [Submission]()
 for submissionFile in submissionFiles {
     guard let content = try? String(contentsOfFile: "\(submissionsDirectoryName)/\(submissionFile)", encoding: .utf8) else { continue }
@@ -202,16 +208,16 @@ for submissionFile in submissionFiles {
         value.split(separator: ", ").map { String($0) }
     } else { [] }
     
-    let aboutMeUrl: URL? = if lines[3].hasPrefix("AboutMeUrl:"), let value = toValue(lines[3], key: "AboutMeUrl:") {
-        URL(string: value)
+    let aboutMeUrl: URL? = if lines[3].hasPrefix("AboutMeUrl:"), let value = toValue(lines[3], key: "AboutMeUrl:"), let url = URL(string: value), url.isValid {
+        url
     } else { nil }
     
-    let sourceUrl: URL? = if lines[4].hasPrefix("SourceUrl:") , let value = toValue(lines[4], key: "SourceUrl:") {
-        URL(string: value)
+    let sourceUrl: URL? = if lines[4].hasPrefix("SourceUrl:") , let value = toValue(lines[4], key: "SourceUrl:"), let url = URL(string: value), url.isValid {
+        url
     } else { nil }
     
-    let videoUrl: URL? = if lines[5].hasPrefix("VideoUrl:"), let value = toValue(lines[5], key: "VideoUrl:") {
-        URL(string: value)
+    let videoUrl: URL? = if lines[5].hasPrefix("VideoUrl:"), let value = toValue(lines[5], key: "VideoUrl:"), let url = URL(string: value), url.isValid {
+        url
     } else { nil }
     
     guard let name else { continue }
