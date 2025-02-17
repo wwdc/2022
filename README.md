@@ -53,6 +53,7 @@ If you would like to update your submission status please find your file in `Sub
 |[João Medeiros](https://github.com/jpcm2)|[GitHub](https://github.com/jpcm2/JungleRescue)|-|SwiftUI, SpriteKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Ju DongSeok](https://github.com/MojitoBar)|[GitHub](https://github.com/MojitoBar/SpaceHash)|-|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Juhwa Lee](https://github.com/Juhwa-Lee1023)|[GitHub](https://github.com/Juhwa-Lee1023/Hangeul)|-|SwiftUI, UIKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Kaijun Zhu](https://kaijunzhu.com)|[GitHub](https://github.com/Heyya-x)|-|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)|[GitHub](https://github.com/ConfuseIous/ASLearn)|-|UIKit, SwiftUI, CoreML, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Kasper Munch Jensen](https://github.com/KaffeDiem)|[GitHub](https://github.com/KaffeDiem/DrawBeatMaker)|-|SwiftUI, AVFoundation, PencilKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Kenneth Chew](https://github.com/kthchew/)|[GitHub](https://github.com/kthchew/wwdc22-mystack)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -87,4 +88,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 71 | Accepted: 62
+##### Total: 72 | Accepted: 63
