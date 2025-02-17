@@ -1,9 +1,9 @@
-Name: Devanshu Dev Chaudhary
-Status: Submitted
-Technologies: SwiftUI, SpriteKit, Speech
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/devdchaudhary
-SourceUrl: https://github.com/devdchaudhary/A-Girls-Epiphany
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
