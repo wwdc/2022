@@ -15,6 +15,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Amber Wu](https://github.com/wyy511511)|[GitHub](https://github.com/wyy511511/HockeyTourWithBingDwenDwen)|-|SwiftUI, ARKit, ARQuickLook|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Anatole Debierre](https://github.com/a2br)|[GitHub](https://github.com/a2br/vote)|[YouTube](https://www.youtube.com/watch?v=414azCHcAgk)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Aryan Chaubal](https://github.com/chaubss)|[GitHub](https://github.com/chaubss/Turing-Machine-WWDC22)|-|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Ataberk Turan](https://github.com/ataberkturan)|[GitHub](https://github.com/ataberkturan/ParkinsonAI)|-|SwiftUI, Combine, CoreML, PencilKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -91,4 +92,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 75 | Accepted: 65
+##### Total: 76 | Accepted: 66
