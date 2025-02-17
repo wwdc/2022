@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Kaijun Zhu
+Status: Accepted
+Technologies: SwiftUI, SpriteKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://kaijunzhu.com
+SourceUrl: https://github.com/Heyya-x
 VideoUrl:
 
 <!---
