@@ -24,6 +24,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Pwnground)|-|SwiftUI, Combine|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |Bedir Ekim|[GitHub](https://github.com/BedirEkim/Securencrypt-WWDC22)|-|SwiftUI, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |Berkin Ceylan|[GitHub](https://github.com/berkinceylan/WWDC22)|-|SwiftUI, CoreML|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Bon Sung Koo](https://github.com/terry-koo)|[GitHub](https://github.com/terry-koo/WWDC_Colors_SwiftUI)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Byeon Jinha](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/CooC_Archive)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)|-|SwiftUI, PencilKit, CoreML, NaturalLanguage|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -92,4 +93,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 76 | Accepted: 66
+##### Total: 77 | Accepted: 67
