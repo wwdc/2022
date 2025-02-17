@@ -53,6 +53,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Karandeep Singh](https://sg.linkedin.com/in/karandeep-singh-635888213)|[GitHub](https://github.com/ConfuseIous/ASLearn)|-|UIKit, SwiftUI, CoreML, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Kasper Munch Jensen](https://github.com/KaffeDiem)|[GitHub](https://github.com/KaffeDiem/DrawBeatMaker)|-|SwiftUI, AVFoundation, PencilKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Kenneth Chew](https://github.com/kthchew/)|[GitHub](https://github.com/kthchew/wwdc22-mystack)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Leon Böttger](https://github.com/leonboe1)|[GitHub](https://github.com/leonboe1/SortApp)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Lin Bo Rong](https://github.com/rong1002)|[GitHub](https://github.com/rong1002/2022WWDC_Swift-Student-Challenge_Burn-Calories)|[YouTube](https://www.youtube.com/watch?v=UTRDFw31SUA&t)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Luiz Araujo](https://github.com/LuizAraujo2020)|-|[YouTube](https://youtu.be/VHeL9B65_gM)|SwiftUI, SceneKit, SpriteKit, GameplayKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -83,4 +84,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 67 | Accepted: 58
+##### Total: 68 | Accepted: 59
