@@ -58,6 +58,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Luiz Araujo](https://github.com/LuizAraujo2020)|-|[YouTube](https://youtu.be/VHeL9B65_gM)|SwiftUI, SceneKit, SpriteKit, GameplayKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/BlinkBoard-WWDC22)|-|SwiftUI, Core Animation, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Madhav Gulati](https://github.com/MadhavGulati/)|[GitHub](https://github.com/MadhavGulati/GeneCloning)|[YouTube](https://youtu.be/j0WaM1uHiiQ)|SwiftUI, AVFoundation, ARKit, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Matheus Dantas](https://github.com/dantoso)|[GitHub](https://github.com/dantoso/WWDC22Submission)|-|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Matthew Christopher Albert](https://github.com/MatthewCAlbert)|[GitHub](https://github.com/MatthewCAlbert/wwdc2022-submission)|-|SwiftUI, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |Max Tsai|[GitHub](https://github.com/ming-zhe-02/The-Fake-News)|[YouTube](https://www.youtube.com/watch?v=scV6d8G3EZw)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Minkyeong Ko](https://github.com/Minkyeong-Ko)|[GitHub](https://github.com/Minkyeong-Ko/Freeboard)|[YouTube](https://youtu.be/XXkhVd-ziIw)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -82,4 +83,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 66 | Accepted: 57
+##### Total: 67 | Accepted: 58
