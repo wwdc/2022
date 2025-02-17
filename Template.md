@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Chema PF
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://github.com/clxsrdev
+SourceUrl: https://github.com/clxsrdev/Mixin-UP
+VideoUrl: https://youtu.be/qkMU5xHEZ_8
 
 <!---
 EXAMPLE
