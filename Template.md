@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Juan Campos Jr.
+Status: Accepted
+Technologies: SwiftUI, MapKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/PiggyGamingYT3
+SourceUrl: https://github.com/PiggyGamingYT3/Unwind
 VideoUrl:
 
 <!---
