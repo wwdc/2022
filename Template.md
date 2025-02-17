@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Yaoyao Wu
+Status: Accepted
+Technologies: SwiftUI,ARKit,ARQuickLook
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/wyy511511
+SourceUrl: https://github.com/wyy511511/HockeyTourWithBingDwenDwen
 VideoUrl:
 
 <!---
