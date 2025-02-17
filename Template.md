@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Zhu Haoyu
+Status: Submitted
+Technologies: SwiftUI, ARKit, Speech, UIKit, CoreMotion
 
 AboutMeUrl:
-SourceUrl:
-VideoUrl:
+SourceUrl: https://github.com/underthestars-zhy/Date-Planner.swiftpm
+VideoUrl: https://www.bilibili.com/video/BV18Y4y187Gj/
 
 <!---
 EXAMPLE
