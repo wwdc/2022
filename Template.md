@@ -1,9 +1,9 @@
-Name: TaekhwanHan
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/TaekH
-SourceUrl: https://github.com/TaekH/WWDC22_MedicineReminder
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
