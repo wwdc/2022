@@ -1,9 +1,9 @@
-Name: Lucas Wang
-Status: Accepted
-Technologies: SwiftUI, ARKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/Lucas-ZX-W
-SourceUrl: https://github.com/Lucas-ZX-W/gaze_control
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
