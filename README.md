@@ -26,6 +26,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Bryanza Novirahman](https://github.com/bryanzanr)|[GitHub](https://github.com/bryanzanr/drawer)|[YouTube](https://youtu.be/ZIRQrQKmxsQ)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Byeon Jinha](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/CooC_Archive)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Carl Voller](https://www.linkedin.com/in/carl-ian-voller)|[GitHub](https://github.com/Portatolova/WWDC2022-Wholesome)|-|SwiftUI, PencilKit, CoreML, NaturalLanguage|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Chema PF](https://github.com/clxsrdev)|[GitHub](https://github.com/clxsrdev/Mixin-UP)|[YouTube](https://youtu.be/qkMU5xHEZ_8)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Chubo Han](https://github.com/soulwinter)|[GitHub](https://github.com/soulwinter/Genetics-Lab)|[YouTube](https://www.youtube.com/watch?v=-1Vt5Ta_dYw)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Conrad Crawford](https://cnrad.dev)|[GitHub](https://github.com/cnrad/polyvisual)|-|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Cynara Costa](https://www.linkedin.com/in/cynaracosta/)|[GitHub](https://github.com/CynaraCosta/graviNewton-WWDC22)|[YouTube](https://www.youtube.com/watch?v=kbO4dDJVx-A)|SwiftUI, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -84,4 +85,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 68 | Accepted: 59
+##### Total: 69 | Accepted: 60
