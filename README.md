@@ -36,6 +36,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Don Chia](https://donchia.tech)|[GitHub](https://github.com/DonChiaQE/ReGen)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Eunbi Cho](https://github.com/Eunbi-Cho)|[GitHub](https://github.com/Eunbi-Cho/Feel-the)|-|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/OhMyFlag-WWDC22)|[YouTube](https://twitter.com/cyongfrank/status/1518663840463872000)|SwiftUI, Core Data, PencilKit, DocC|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|Fred P|[GitHub](https://github.com/fredpi/WWDC2022)|-|SwiftUI, UIKit, Core Graphics|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Furkan Hancı](https://github.com/furkanhancisecond)|[GitHub](https://github.com/FurkanHanciSecond/LearnSwiftUI)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Gaeun Lee](https://github.com/rriver2)|[GitHub](https://github.com/rriver2/WWDC--Ep-)|[YouTube](https://www.youtube.com/watch?v=X5ij9X1Gq-A)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Garv Shah](https://github.com/garv-shah)|[GitHub](https://github.com/garv-shah/Swift-Student-Challenge-2022)|-|SwiftUI, SceneKit, ARKit, Combine|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
@@ -85,4 +86,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 69 | Accepted: 60
+##### Total: 70 | Accepted: 61

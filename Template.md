@@ -1,9 +1,9 @@
-Name: Fred P
-Status: Accepted
-Technologies: SwiftUI, UIKit, Core Graphics
+Name:
+Status:
+Technologies:
 
 AboutMeUrl:
-SourceUrl: https://github.com/fredpi/WWDC2022
+SourceUrl:
 VideoUrl:
 
 <!---
