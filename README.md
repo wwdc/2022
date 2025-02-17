@@ -81,6 +81,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Sam Poder](https://github.com/sampoder)|[GitHub](https://github.com/sampoder/whack-a-mole)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Sascha Salles](https://github.com/saschasalles)|[GitHub](https://github.com/saschasalles/Athletic-Robot.swiftpm)|-|ARKit, Vision, CreateML, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Sérgio Ruediger](https://github.com/sruediger)|[GitHub](https://github.com/sruediger/WWDC2022CTF)|-|SwiftUI, Combine, CoreGraphics, CryptoKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[TaekhwanHan](https://github.com/TaekH)|[GitHub](https://github.com/TaekH/WWDC22_MedicineReminder)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Tamerlan Satualdypov](https://github.com/onl1ner)|[GitHub](https://github.com/onl1ner/Morse)|-|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Vedant Malhotra](https://github.com/vedantapps)|[GitHub](https://github.com/vedantapps/SaveWWDC)|[YouTube](https://youtu.be/um2HbaI8xqA)|SwiftUI, UIKit, ARKit, PencilKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Vincent Spitale](https://github.com/vincentspitale)|[GitHub](https://github.com/vincentspitale/SSC2022)|[YouTube](https://youtu.be/vQM8yTbGguQ)|SwiftUI, PencilKit, VisionKit, MetalKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -90,4 +91,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 74 | Accepted: 64
+##### Total: 75 | Accepted: 65
