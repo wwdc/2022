@@ -1,9 +1,9 @@
-Name: David Mazzeo
-Status: Accepted
-Technologies: UIKit, SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/TheIntelCorei9
-SourceUrl: https://github.com/TheIntelCorei9/Swift-Student-Challenge
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
