@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Bon Sung Koo
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/terry-koo
+SourceUrl: https://github.com/terry-koo/WWDC_Colors_SwiftUI
 VideoUrl:
 
 <!---
