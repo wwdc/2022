@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Keshav Khaneja
+Status: Submitted
+Technologies: SwiftUI, manim, AVPlayer, CGPaths
 
 AboutMeUrl:
-SourceUrl:
+SourceUrl: https://github.com/3u1s/eoqe
 VideoUrl:
 
 <!---
