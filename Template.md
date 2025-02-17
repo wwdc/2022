@@ -1,9 +1,9 @@
-Name: Matheus Dantas
-Status: Accepted
-Technologies: SwiftUI, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/dantoso
-SourceUrl: https://github.com/dantoso/WWDC22Submission
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
