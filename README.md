@@ -95,5 +95,6 @@ If you would like to update your submission status please find your file in `Sub
 |Yauheni Stsefankou|[GitHub](https://github.com/stefjen07/WWDC22-NeuralNetworks)|-|SwiftUI, SpriteKit, CoreGraphics|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yiwei Wang](https://github.com/wangyiwei2015)|[GitHub](https://github.com/wangyiwei2015/ColorCodeChallenge)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
+|Zhu Haoyu|[GitHub](https://github.com/underthestars-zhy/Date-Planner.swiftpm)|[YouTube](https://www.bilibili.com/video/BV18Y4y187Gj/)|SwiftUI, ARKit, Speech, UIKit, CoreMotion|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 80 | Accepted: 69
+##### Total: 81 | Accepted: 69
