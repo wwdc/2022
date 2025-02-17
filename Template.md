@@ -1,9 +1,9 @@
-Name: Leon Böttger
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/leonboe1
-SourceUrl: https://github.com/leonboe1/SortApp
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
