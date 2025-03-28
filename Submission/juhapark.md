@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Juha Park 
+Status: Winner 
+Technologies: SwiftUI, RealityKit, ARKit 
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/juhapark21 
+SourceUrl: https://github.com/juhapark21/WWDC22-DefaultAppsARGlasses
 VideoUrl:
 
 <!---
