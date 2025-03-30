@@ -1,5 +1,5 @@
 Name: Juha Park 
-Status: Winner 
+Status: Accepted 
 Technologies: SwiftUI, RealityKit, ARKit 
 
 AboutMeUrl: https://github.com/juhapark21 
