@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Lu Jingyuan
+Status: Winner
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/Jimmyluluu
+SourceUrl: https://github.com/Jimmyluluu/WWDC22-MusicLearning
 VideoUrl:
 
 <!---
