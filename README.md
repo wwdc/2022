@@ -66,6 +66,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Leon Böttger](https://github.com/leonboe1)|[GitHub](https://github.com/leonboe1/SortApp)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Lexline Johnson](https://github.com/codeswift27)|[GitHub](https://github.com/codeswift27/quantum-entanglement.git)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Lin Bo Rong](https://github.com/rong1002)|[GitHub](https://github.com/rong1002/2022WWDC_Swift-Student-Challenge_Burn-Calories)|[YouTube](https://www.youtube.com/watch?v=UTRDFw31SUA&t)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Lu Jingyuan](https://github.com/Jimmyluluu)|[GitHub](https://github.com/Jimmyluluu/WWDC22-MusicLearning)|-|SwiftUI|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Lucas Wang](https://github.com/Lucas-ZX-W)|[GitHub](https://github.com/Lucas-ZX-W/gaze_control)|-|SwiftUI, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Luiz Araujo](https://github.com/LuizAraujo2020)|-|[YouTube](https://youtu.be/VHeL9B65_gM)|SwiftUI, SceneKit, SpriteKit, GameplayKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/BlinkBoard-WWDC22)|-|SwiftUI, Core Animation, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -98,4 +99,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yunho Oh](https://github.com/Helloyunho)|[GitHub](https://github.com/Helloyunho/about_computer_bits)|[YouTube](https://youtu.be/V8Zhc-dDbVI)|SwiftUI|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |Zhu Haoyu|[GitHub](https://github.com/underthestars-zhy/Date-Planner.swiftpm)|[Video](https://www.bilibili.com/video/BV18Y4y187Gj/)|SwiftUI, ARKit, Speech, UIKit, CoreMotion|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 82 | Accepted: 69
+##### Total: 83 | Accepted: 69
