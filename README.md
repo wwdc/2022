@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2022/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | [Amber Wu](https://github.com/wyy511511) | [GitHub](https://github.com/wyy511511/HockeyTourWithBingDwenDwen)<br><sub>SwiftUI, ARKit, ARQuickLook</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
 | [Anatole Debierre](https://github.com/a2br) | [GitHub](https://github.com/a2br/vote) · [Video](https://www.youtube.com/watch?v=414azCHcAgk)<br><sub>SwiftUI</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
