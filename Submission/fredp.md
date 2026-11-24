@@ -1,18 +1,8 @@
 Name: Fred P
 Status: Accepted
-Technologies: SwiftUI, UIKit, Core Graphics
+ProjectTitle: 
+Technologies: SwiftUI, UIKit, CoreGraphics
 
-AboutMeUrl:
+AboutMeUrl: 
 SourceUrl: https://github.com/fredpi/WWDC2022
-VideoUrl:
-
-<!---
-EXAMPLE
-Name: John Appleseed
-Status: Submitted <or> Winner <or> Distinguished <or> Rejected
-Technologies: SwiftUI, RealityKit, CoreGraphic
-
-AboutMeUrl: https://linkedin.com/in/johnappleseed
-SourceUrl: https://github.com/johnappleseed/wwdc2025
-VideoUrl: https://youtu.be/ABCDE123456
--->
+VideoUrl: 
